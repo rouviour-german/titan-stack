@@ -97,6 +97,10 @@ TitanStack follows **Clean Architecture** principles, separating business logic 
 
 ---
 
+---
+
+---
+
 ## Author & Contact
 
 - **GitHub:** [@rouviour-german](https://github.com/rouviour-german)
